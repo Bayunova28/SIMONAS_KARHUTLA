@@ -1,6 +1,6 @@
 # SIMONAS KARHUTLA
 
-- Place : <b>IPB University</b>
+- Place : <b>IPB University (Bogor Agricultural University)</b>
 - Course : <b>Dissertation Research</b>
 
 ## Table of Contents
