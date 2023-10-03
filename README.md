@@ -61,11 +61,11 @@
 
 ## Authors
 
-- Dinar Ajeng Kristiyanti, S.Kom., M.Kom.
-- Prof. Dr. Imas Sukaesih Sitanggang, S.Si, M.Kom
-- Dr. Eng. Annisa, S.Kom, M.Kom
-- Prof. Dr. Ir. Sri Nurdiati, M.Sc
-- Willibrordus Bayu Nova Pramudya, S.Kom
+- Dinar Ajeng Kristiyanti, B.C.S., M.Com.
+- Prof. Dr. Imas Sukaesih Sitanggang, B.Sc., M.Com.
+- Dr. Eng. Annisa, B.C.S., M.Com.
+- Prof. Dr. Ir. Sri Nurdiati, M.Sc.
+- Willibrordus Bayu Nova Pramudya, B.C.S.
 
 ## Acknowledgement
 The authors would like to thank IPB University for providing support in this research.
