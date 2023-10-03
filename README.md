@@ -8,7 +8,7 @@
 - [Background](#background)
 - [Requirement](#requirement)
 - [Inspiration](#inspiration)
-- [Schema](#schema)
+- [Features](#features)
 
 ## Background
 
