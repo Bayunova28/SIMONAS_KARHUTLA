@@ -64,7 +64,7 @@
 - Prof. Dr. Imas Sukaesih Sitanggang, S.Si, M.Kom
 - Dr. Eng. Annisa, S.Kom, M.Kom
 - Prof. Dr. Ir. Sri Nurdiati, M.Sc
-- Willibrordus Bayu Nova Pramudya
+- Willibrordus Bayu Nova Pramudya, S.Kom
 
 ## Acknowledgement
 The authors would like to thank IPB University for providing support in this research.
