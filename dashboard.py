@@ -11,8 +11,6 @@ import base64
 import plotly.graph_objects as go
 
 st.cache_data
-
-
 # Define function to generate dashboard
 def get_dashboard():
     # Load image
