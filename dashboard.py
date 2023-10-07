@@ -371,7 +371,6 @@ def get_dashboard():
 
     # Streamlit UI
     st.plotly_chart(fig, use_container_width=True)
-
-
+    
 if __name__ == "__main__":
     get_dashboard()
