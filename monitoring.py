@@ -217,7 +217,6 @@ def get_monitoring():
     generate_wordcloud(total_hashtags)
 
     st.write("#### Text Pre-Processing")
-    st.cache_data
     df_norm = pd.read_excel("datasets/content_normalization.xlsx", sheet_name="Sheet1")
     # Rename columns
     df_norm.rename(
@@ -979,7 +978,6 @@ def get_monitoring():
         # Add an index column starting from 1
         df_merged_meta_func["No"] = range(1, len(df_merged_meta_func) + 1)
         st.dataframe(df_merged_meta_func.set_index("No"), use_container_width=True)
-
-
+        
 if __name__ == "__main__":
     get_monitoring()
