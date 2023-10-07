@@ -464,7 +464,6 @@ def get_text_analyzer():
                 st.write(f"##### Compound Score: {sentiment_score:.2%}")
             else:
                 st.write("Please enter some text for analysis.")
-
-
+                
 if __name__ == "__main__":
     get_text_analyzer()
