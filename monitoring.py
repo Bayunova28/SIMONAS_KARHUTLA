@@ -217,6 +217,7 @@ def get_monitoring():
     generate_wordcloud(total_hashtags)
 
     st.write("#### Text Pre-Processing")
+    st.cache_data
     df_norm = pd.read_excel("datasets/content_normalization.xlsx", sheet_name="Sheet1")
     # Rename columns
     df_norm.rename(
