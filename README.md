@@ -40,7 +40,7 @@
 
 - Build Feature Selection Technique (FST) using conventional SSA, PSO, and ALO for analysis of forest and land fires at Indonesia.
 - Build Salp Swarm Algorithm-Transfer Function as Feature Selection Technique (FST) for Sentiment Analysis of forest and land fires in Indonesia.
-- Build web application to monitor sentiment analysis and Natural Language Processing (NLP) for document uploader and text sentiment input features which support all languages to analyze sentiment of contents related from forest and land fires in Indonesia using VADER (Valence Aware Dictionary and Sentiment Reasoner) sentiment.
+- Build web application to monitor sentiment analysis and Natural Language Processing (NLP) for document uploader and text sentiment input features which support all languages to analyze sentiment of contents related from forest and land fires in Indonesia using Valence Aware Dictionary and Sentiment Reasoner algorithm (new features).
 
 ## Features
 
